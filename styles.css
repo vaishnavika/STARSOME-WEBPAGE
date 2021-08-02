@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+    text-decoration-color: aqua;
+     font-family: 'Ballet', cursive;
+   font-size:19px;
+  background:linear-gradient(#d19bee 4%,#fcb045 100%);
+  color:blueviolet;
+}
+
+input{
+    background-color:plum;
+}
+
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.movie_head i{
+    float:right;
+}
+
+.movie_text span{
+    color:blueviolet;
+}
+
+envt_li{
+    margin-top: 13px;
+}
+
+envt_li h4{
+    border-bottom: 1px solid red;
+    padding: 8px;
+}
+
+envt_li img{
+    border-radius: 25px;
+}
+
+envt_li{
+    margin-top: 10px;
+}
+
+h1{
+    font-size: 40px;
+    line-height: 1.6;
+    font-weight: 300;
+    text-shadow:5px 5px #03A9F4;
+}
